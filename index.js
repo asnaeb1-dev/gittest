@@ -9,3 +9,5 @@ console.log(`${x} is a good way to get product.`);
 
 const p = a % b;
 console.log(`The remainder is ${p}`);
+const c = a + b;
+console.log(`${c} is a good way to get sum.`);
