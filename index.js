@@ -6,3 +6,6 @@ console.log("new stuff has been added")
 
 const x = a * b;
 console.log(`${x} is a good way to get product.`);
+
+const p = a % b;
+console.log(`The remainder is ${p}`);
